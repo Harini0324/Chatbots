@@ -1,0 +1,24 @@
+Product design is the process of ideating, creating, and iterating a design to develop a final product that meets a specific user or market need. At this stage in the product development process, you can expect to assess functionality and aesthetics, and make sure that the product meets both business goals and user needs.
+
+You and your design team would start by defining the vision for the product, and depending on the product and industry, continue to fine-tune and make ongoing improvements throughout the iterative design process, which typically involves UX (user experience) designers, graphic designers, market research analysts, engineers, and other collaborators.
+
+A codified design process ensures that communication across team members is effective, improves product quality through testing that ensures the product works as designed, and reduces time to market with efficient and automated workflows, as needed. 
+
+Vision is the big-picture reason for, and motivation behind, creating a product. It identifies a problem, clarifies objectives, and sets attainable success metrics for stakeholders such as your design team and customers. Examples of questions asked at this stage include: “What problem does this product solve for our audience?” or “How long will it take us to build it?” or “How will the product evolve in three, five, or seven years?” 
+
+Whether breaking into a new market or improving a previous design, it’s necessary to clearly define the final product so your team is on the same page about key metrics. Key performance indicators, or KPIs, such as cycle time and yield are measurable success criteria in manufacturing and design.
+
+In the user and market research stage, you are exploring the product’s viability through field studies, online surveys, or user interviews to identify customer needs and competitors, and to assess market demand.
+
+The ideation phase of product design involves brainstorming the product’s key features to solve a problem. This step might include creating user personas, which are reliable and realistic representations of the target user, and user stories describing how the product provides a solution.
+
+A prototype is an early version of your product under development. Creating sketches and prototypes is a critical stage in the product design process. A product prototype can identify design flaws and determine whether the product meets user needs. Design teams often build a minimal viable product, a version of a product with just enough features to conduct early user analysis. Incorporating user feedback can reduce the risk of costly changes later in the product development process
+
+Testing is crucial to determine if the product functions correctly. Usability testing can help designers identify issues and make the necessary adjustments before the product is built and shipped. For digital products, this step can include A/B testing, as well as security and compatibility testing between various devices and platforms. 
+
+5 key elements of product design
+Functionality
+Aesthetics
+Quality
+Sustainability
+User experience
